@@ -18,3 +18,9 @@ p {
     margin-right: 10px;
     margin-left: 10px; 
 }
+.main {
+    background-color: green;
+}
+#firstparagraph {
+    font-style: 'Comic Sans';
+}
